@@ -1,0 +1,41 @@
+{
+  "volume": 0.6,
+  "fullscreen": true,
+  "show_fps": true,
+  "fps_limit": 240,
+  "completed": true,
+  "binds": {
+    "left": [
+      "k",
+      97
+    ],
+    "right": [
+      "k",
+      100
+    ],
+    "jump": [
+      "k",
+      32
+    ],
+    "attack": [
+      "m",
+      1
+    ],
+    "sword": [
+      "k",
+      49
+    ],
+    "bow": [
+      "k",
+      50
+    ],
+    "heal": [
+      "k",
+      119
+    ],
+    "buff": [
+      "k",
+      115
+    ]
+  }
+}
